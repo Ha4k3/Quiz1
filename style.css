@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: red;
+    font-family: Arial, sans-serif;
+}
+
+#quiz-container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    background-color: red;
+    color: black;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
